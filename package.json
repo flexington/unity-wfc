@@ -10,7 +10,8 @@
     "licensesUrl": "https://github.com/flexington/unity-wfc/blob/fb004cfb92f585acb3d942303d7b1df1bfc1c53b/README.md",
     "changelogUrl": "",
     "dependencies": {
-        "uk.flexington.grid": "1.0.0-alpha.1"
+        "uk.flexington.grid": "1.0.0-alpha.1",
+        "uk.flexington.tools": "1.0.0-alpha.1"
     },
     "testables": [
         "uk.flexington.wfc.tests",

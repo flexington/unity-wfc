@@ -1,0 +1,17 @@
+{
+    "name": "uk.flexington.wfc",
+    "rootNamespace": "flexington.WFC",
+    "references": [
+        "uk.flexington.tools",
+        "uk.flexington.grid"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
