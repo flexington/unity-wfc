@@ -1,0 +1,26 @@
+{
+    "name": "uk.flexington.wfc",
+    "displayName": "Flexington WaveFunction Collapse Algorithm",
+    "version": "1.0.0-alpha.1",
+    "unity": "2022.3",
+    "author": {
+        "name": "Sandro Paetzold",
+        "email": "unity@flexington.uk"
+    },
+    "licensesUrl": "https://github.com/flexington/unity-wfc/blob/fb004cfb92f585acb3d942303d7b1df1bfc1c53b/README.md",
+    "changelogUrl": "",
+    "dependencies": {
+        "uk.flexington.grid": "1.0.0-alpha.1"
+    },
+    "testables": [
+        "uk.flexington.wfc.tests",
+        "uk.flexington.wfc.tests.src",
+        "uk.flexington.wfc.tests.editor"
+    ],
+    "keywords": [
+        "flexington",
+        "wfc",
+        "wavefunction collapse",
+        "2d"
+    ]
+}
