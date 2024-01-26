@@ -1,3 +1,5 @@
+using UnityEngine;
+
 namespace flexington.WFC
 {
     /// <summary>
@@ -5,5 +7,9 @@ namespace flexington.WFC
     /// </summary>
     public interface ITile
     {
+        /// <summary>
+        /// Gets the sprite associated with the tile.
+        /// </summary>
+        public Sprite Sprite { get; set; }
     }
 }

@@ -1,7 +1,9 @@
 {
     "name": "flexington.wfc",
     "rootNamespace": "flexington.WFC",
-    "references": [],
+    "references": [
+        "GUID:3f386e3ddf98b458aad7ae1122f9f0f6"
+    ],
     "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
