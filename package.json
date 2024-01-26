@@ -1,0 +1,21 @@
+{
+    "name": "flexington.wfc",
+    "displayName": "Wavefunction Collapse implementation for Unity",
+    "version": "1.0.0-alpha.1",
+    "unity": "2022.3",
+    "description": "Wavefunction Collapse implementation for Unity",
+    "author": {
+        "name": "Sandro Paetzold",
+        "email": "unity@flexington.uk"
+    },
+    "licenseUrl": "https://github.com/flexington/unity-wfc/blob/main/LICENSE",
+    "changelogUrl": "",
+    "dependencies": {},
+    "testables": {},
+    "keywords": [
+        "wavefunction",
+        "collapse",
+        "wfc",
+        "Wavefunction Collapse"
+    ]
+}

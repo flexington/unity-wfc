@@ -1,0 +1,20 @@
+{
+    "name": "flexington.wfc.tests",
+    "rootNamespace": "flexington.WFC.Tests",
+    "references": [
+        "GUID:6f0fd5fd37807483696c8be63ec80902"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "nunit.framework.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
