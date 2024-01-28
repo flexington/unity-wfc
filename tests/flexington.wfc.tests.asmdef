@@ -2,7 +2,8 @@
     "name": "flexington.wfc.tests",
     "rootNamespace": "flexington.WFC.Tests",
     "references": [
-        "GUID:6f0fd5fd37807483696c8be63ec80902"
+        "GUID:6f0fd5fd37807483696c8be63ec80902",
+        "GUID:3f386e3ddf98b458aad7ae1122f9f0f6"
     ],
     "includePlatforms": [
         "Editor"
@@ -11,7 +12,9 @@
     "allowUnsafeCode": false,
     "overrideReferences": true,
     "precompiledReferences": [
-        "nunit.framework.dll"
+        "nunit.framework.dll",
+        "Castle.Core.dll",
+        "Moq.dll"
     ],
     "autoReferenced": true,
     "defineConstraints": [],

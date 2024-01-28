@@ -13,6 +13,6 @@ namespace flexington.WFC
         /// <summary>
         /// The <see cref="Tiles"/> of the pattern.
         /// </summary>
-        ITile[,] Tiles { get; }
+        ITile[,] Tiles { get; set; }
     }
 }
