@@ -7,7 +7,7 @@ namespace flexington.WFC
     {
         private Sprite _sprite;
 
-        public TileBuilder<T> WithSprite(Sprite sprite)
+        public ITileBuilder<T> WithSprite(Sprite sprite)
         {
             _sprite = sprite;
             return this;

@@ -12,7 +12,7 @@ namespace flexington.WFC
         /// </summary>
         /// <param name="sprite">The sprite to set.</param>
         /// <returns>The tile builder instance.</returns>
-        TileBuilder<T> WithSprite(Sprite sprite);
+        ITileBuilder<T> WithSprite(Sprite sprite);
 
         /// <summary>
         /// Builds the tile using the specified parameters.
